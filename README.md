@@ -12,10 +12,9 @@ Repo นี้รวมแนวทางการทดสอบโปรแก
 /MyProject
   ├── /docs
   │    ├── README.md         # ไฟล์หลักสำหรับแนะนำ repo
-  │    ├── unit-testing.md   # อธิบาย Unit Testing
-  │    ├── integration-testing.md # อธิบาย Integration Testing
-  │    ├── mocking.md        # อธิบายการใช้ Moq
-  │    ├── practices.md      # แนวทางการปฏิบัติ
+  │    ├── CSharp_Testing_Practices.md  # อธิบาย Unit Testing, การใช้ Moq, แนวทางการปฏิบัติ
+  │    ├── CSharp_Integration_Testing_Example.md # อธิบาย Integration Testing, การใช้ Moq, แนวทางการปฏิบัติ
+
 ```
 
 ---
